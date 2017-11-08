@@ -1,2 +1,0 @@
-# probml
-Probabilistic machine learning
